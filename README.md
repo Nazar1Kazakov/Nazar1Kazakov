@@ -49,8 +49,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazar1Kazakov&show_icons=true&theme=tokyonight" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar1Kazakov&layout=compact&theme=tokyonight" />
 </p>
 
