@@ -36,8 +36,8 @@
 ### 📫 Contact Me
 
 - Telegram: [@Nazar1Kazakov](https://t.me/Nazar1Kazakov)
-- Email: *add your email here*
-- Discord: *your discord tag here*
+- Email: kazakov.2000.nazar@gmail.com
+- Discord: yaloshkka
 - GitHub: [github.com/Nazar1Kazakov](https://github.com/Nazar1Kazakov)
 
 ---
