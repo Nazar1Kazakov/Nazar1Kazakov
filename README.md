@@ -9,19 +9,24 @@
 
     💬 Building Paketík — lightweight, encrypted messenger for fast communication
 
+    🛠️ Comfortable with front-end technologies: HTML, CSS, JavaScript
+
+    🎮 Also learning game and app development basics with C#
+
     📚 Constant learner, pushing boundaries with Python & PyQt6
+
+
+
+    
 
 🚀 Featured Projects
 ⚙️ Project	💡 Description	🧰 Tech Stack
 Jarvis	AI voice assistant with neon-styled dashboard, animations, and system monitoring	Python, PyQt6, Vosk, TTS, JSON
 Paketík	Dark-mode messenger focused on speed, simplicity, and security	Python, Sockets, Tkinter
 Neon Monitor	Beautiful animated dashboard showing CPU/RAM/GPU stats in real time	Python, PyQt6, Threading, Custom Widgets
-🛠️ Tech Stack
-<div align="center"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Vosk-202124?style=for-the-badge&logo=vosk&logoColor=0fffc1" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </div>
-📬 Contact Me
-<p align="center"> <a href="https://t.me/Nazar1Kazakov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> <a href="mailto:kazakov.2000.nazar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/Nazar1Kazakov"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a> <a><img src="https://img.shields.io/badge/Discord-yaloshkka-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> </p>
-✨ Quote to Code By
+⚙️ Tech Stack
+<div align="center"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </div>
 
-    "The future belongs to those who code it." — Nazar
+"The future belongs to those who code it." — Nazar
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0fffc1&height=120&section=footer"/> </div> 
