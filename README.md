@@ -36,18 +36,18 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazar1Kazakow&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar1Kazakow&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nazar1Kazakov&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar1Kazakov&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ### 📫 Contact Me
 
-- Telegram: [@Nazar1Kazakow](https://t.me/Nazar1Kazakow)
+- Telegram: [@Nazar1Kazakov](https://t.me/Nazar1Kazakov)
 - Email: *add your email here*
 - Discord: *your discord tag here*
-- GitHub: [github.com/Nazar1Kazakow](https://github.com/Nazar1Kazakow)
+- GitHub: [github.com/Nazar1Kazakov](https://github.com/Nazar1Kazakov)
 
 ---
 
