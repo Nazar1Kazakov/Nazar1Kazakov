@@ -33,15 +33,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazar1Kazakov&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar1Kazakov&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ### 📫 Contact Me
 
 - Telegram: [@Nazar1Kazakov](https://t.me/Nazar1Kazakov)
