@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Nazar 👋</h1>
+<h3 align="center">💻 Python Developer | 🤖 Jarvis Creator | 🧠 UI Enthusiast</h3>
 
-<!--
-**Nazar1Kazakov/Nazar1Kazakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Building my personal voice assistant **Jarvis** with a smart UI
+- 🎨 Designing futuristic interfaces with neon aesthetics
+- 🛠️ Passionate about clean code, performance, and automation
+- 📡 Working on a secure, fast messenger called **Paketík**
+- 🚀 Always learning and improving my Python skills
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🤖 Jarvis](https://github.com/Nazar1Kazakov/jarvis) | Voice assistant with neon UI and system stats | Python, PyQt6, TTS, Vosk |
+| [📦 Paketík Messenger](https://github.com/Nazar1Kazakov/paketik) | Fast and minimal messenger with dark theme | Python, sockets |
+| [📊 Neon System Monitor](https://github.com/Nazar1Kazakov/neon-monitor) | UI to monitor CPU, RAM, GPU with animation | Python, PyQt6, threading |
+
+---
+
+### ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![PyQt6](https://img.shields.io/badge/-PyQt6-333?style=for-the-badge&logo=qt)
+![JSON](https://img.shields.io/badge/-JSON-333?style=for-the-badge&logo=json)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nazar1Kazakow&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazar1Kazakow&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 📫 Contact Me
+
+- Telegram: [@Nazar1Kazakow](https://t.me/Nazar1Kazakow)
+- Email: *add your email here*
+- Discord: *your discord tag here*
+- GitHub: [github.com/Nazar1Kazakow](https://github.com/Nazar1Kazakow)
+
+---
+
+> 💬 “The future belongs to those who code it.” — Nazar
