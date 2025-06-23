@@ -1,45 +1,39 @@
-<h1 align="center">Hi there, I'm Nazar 👋</h1>
-<h3 align="center">💻 Python Developer | 🤖 Jarvis Creator | 🧠 UI Enthusiast</h3>
+<h1 align="center">Hey, I'm Nazar 👋</h1> <h3 align="center">💻 Python Developer • 🤖 Jarvis Creator • 🧠 UI Innovator</h3> <p align="center"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/> <img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </p>
+🧠 About Me
 
----
+    🤖 Building a smart, responsive voice assistant called Jarvis
 
-### 🧠 About Me
+    🎨 Designing futuristic neon UIs with PyQt6
 
-- 🤖 Building my personal voice assistant **Jarvis** with a smart UI
-- 🎨 Designing futuristic interfaces with neon aesthetics
-- 🛠️ Passionate about clean code, performance, and automation
-- 📡 Working on a secure, fast messenger called **Paketík**
-- 🚀 Always learning and improving my Python skills
+    🔧 Obsessed with performance, clean architecture, and automation
 
----
+    📡 Co-creating Paketík, a minimal and secure messenger
 
-### 🚀 Featured Projects
+    🚀 Constantly upgrading my Python & UI development skills
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Jarvis](https://github.com/Nazar1Kazakov/jarvis) | Voice assistant with neon UI and system stats | Python, PyQt6, TTS, Vosk |
-| [Paketík Messenger](https://github.com/Nazar1Kazakov/paketik) | Fast and minimal messenger with dark theme | Python, sockets |
-| [Neon System Monitor](https://github.com/Nazar1Kazakov/neon-monitor) | UI to monitor CPU, RAM, GPU with animation | Python, PyQt6, threading |
+🚀 Highlighted Projects
+🛠 Project	🔍 Description	🧰 Technologies
+Jarvis	Voice assistant with neon UI, real-time stats & commands	Python, PyQt6, Vosk, TTS
+Paketík Messenger	Lightweight messenger with modern dark UI	Python, sockets
+Neon Monitor	Animated system resource dashboard (CPU, RAM, GPU)	Python, PyQt6, threading
+🛠 Tech Toolbox
 
----
+    Languages: Python, JSON
 
-### ⚙️ Tech Stack
+    Frameworks: PyQt6, socket, threading
 
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![PyQt6](https://img.shields.io/badge/-PyQt6-333?style=for-the-badge&logo=qt)
-![JSON](https://img.shields.io/badge/-JSON-333?style=for-the-badge&logo=json)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
+    Tools: Git, Linux, Vosk, TTS, Qt Designer
 
----
+    Design Style: Neon UI, circular indicators, responsive layout
 
-### 📫 Contact Me
+📬 Reach Out
 
-- Telegram: [@Nazar1Kazakov](https://t.me/Nazar1Kazakov)
-- Email: kazakov.2000.nazar@gmail.com
-- Discord: yaloshkka
-- GitHub: [github.com/Nazar1Kazakov](https://github.com/Nazar1Kazakov)
+    📩 Telegram: @Nazar1Kazakov
 
----
+    ✉️ Email: kazakov.2000.nazar@gmail.com
 
-> 💬 “The future belongs to those who code it.” — Nazar
+    💬 Discord: yaloshkka
+
+    🧠 GitHub: github.com/Nazar1Kazakov
+
+    💬 “The future belongs to those who code it.” — Nazar
