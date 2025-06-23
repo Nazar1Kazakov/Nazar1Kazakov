@@ -17,9 +17,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🤖 Jarvis](https://github.com/Nazar1Kazakov/jarvis) | Voice assistant with neon UI and system stats | Python, PyQt6, TTS, Vosk |
-| [📦 Paketík Messenger](https://github.com/Nazar1Kazakov/paketik) | Fast and minimal messenger with dark theme | Python, sockets |
-| [📊 Neon System Monitor](https://github.com/Nazar1Kazakov/neon-monitor) | UI to monitor CPU, RAM, GPU with animation | Python, PyQt6, threading |
+| [Jarvis](https://github.com/Nazar1Kazakov/jarvis) | Voice assistant with neon UI and system stats | Python, PyQt6, TTS, Vosk |
+| [Paketík Messenger](https://github.com/Nazar1Kazakov/paketik) | Fast and minimal messenger with dark theme | Python, sockets |
+| [Neon System Monitor](https://github.com/Nazar1Kazakov/neon-monitor) | UI to monitor CPU, RAM, GPU with animation | Python, PyQt6, threading |
 
 ---
 
